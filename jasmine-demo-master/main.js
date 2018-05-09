@@ -4,6 +4,7 @@
 // console.log("Hello world");
 
 // JS判断闰年
+/*
 function isLeapYear(n) {
     if(n % 400 === 0) {
         return true
@@ -21,6 +22,7 @@ console.log("2000:" + isLeapYear(2000));
 console.log("1900:" + isLeapYear(1900));
 console.log("2008:" + isLeapYear(2008));
 console.log("2009:" + isLeapYear(2009));
+*/
 
 //JS实现菲波那切数列
 const fibonacci = require('./lib/fibonacci')
